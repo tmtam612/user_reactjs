@@ -1,0 +1,14 @@
+đăng ký user có đăng ký hình ảnh //done
+gửi mail khi đăng ký thành công, //done
+validate khi đăng ký//done
+
+
+paging, sort list user.
+set role cho user
+đăng nhập user, đăng nhập bằng facebook, gmail.
+
+export, import excel.
+
+sửa user, đổi password, gửi mail khi sửa đổi thành công, reset password user bằng email.
+
+Khi vào check đã login chưa ? chưa login bắt buộc phải login hoặc signup
